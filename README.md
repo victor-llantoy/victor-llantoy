@@ -89,13 +89,13 @@ Estas son algunas de las tecnologías que estoy aprendiendo y utilizando en mis 
 
 ## Lenguajes en mis repositorios
 
-<div align="center">
+<!-- LANGUAGES:START -->
 
-![Lenguajes de los repositorios de Víctor](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-llantoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Lenguajes de los repositorios públicos](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-llantoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-</div>
+<!-- LANGUAGES:END -->
 
-<sub>Distribución aproximada del código de los repositorios públicos disponibles. Esta tarjeta no mide el nivel de dominio de cada lenguaje.</sub>
+<sub>Por ahora, el gráfico muestra repositorios públicos. La tabla incluirá repositorios propios públicos y privados cuando se configure el acceso y se ejecute la actualización. Las cifras representan proporción de código, no nivel de dominio.</sub>
 
 ---
 
