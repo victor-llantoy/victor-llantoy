@@ -91,7 +91,14 @@ Estas son algunas de las tecnologías que estoy aprendiendo y utilizando en mis 
 
 <!-- LANGUAGES:START -->
 
-![Lenguajes de los repositorios públicos](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-llantoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+| Lenguaje | Código | Proporción |
+| :--- | ---: | :--- |
+| Java | 28.8 % | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| JavaScript | 28.5 % | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| HTML | 26.7 % | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| CSS | 15.4 % | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Python | 0.5 % | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Dockerfile | 0.0 % | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 
 <!-- LANGUAGES:END -->
 
