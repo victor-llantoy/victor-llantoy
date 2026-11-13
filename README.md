@@ -102,7 +102,7 @@ Estas son algunas de las tecnologías que estoy aprendiendo y utilizando en mis 
 
 <!-- LANGUAGES:END -->
 
-<sub>Por ahora, el gráfico muestra repositorios públicos. La tabla incluirá repositorios propios públicos y privados cuando se configure el acceso y se ejecute la actualización. Las cifras representan proporción de código, no nivel de dominio.</sub>
+<sub>La tabla incluye repositorios propios públicos y privados, excepto forks. Las cifras representan proporción de código, no nivel de dominio.</sub>
 
 ---
 
