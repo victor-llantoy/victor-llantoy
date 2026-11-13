@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**victor-llantoy/victor-llantoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<div align="center">
+<div align="center">
 
 # ¡Hola, soy Víctor Llantoy! 👋
 
@@ -72,12 +65,3 @@ Ejercicios para practicar y afianzar conceptos de Java.
 📫 [Escríbeme](mailto:vic2792@gmail.com)
 
 </div>
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
